@@ -1,2 +1,2 @@
 # hello-world
-hello world! Just completing this github tutorial.
+hello world! Just to complete this github tutorial.
